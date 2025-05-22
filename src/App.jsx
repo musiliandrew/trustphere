@@ -3,7 +3,7 @@ import { Chart as ChartJS, ArcElement, Tooltip, Legend } from "chart.js";
 import { Pie } from "react-chartjs-2";
 
 // Import images from src/assets
-import landingPage from "./assets/landing_page.jpg";
+import landingPage from "./assets/landing_page.webp";
 import hitImage from "./assets/hit.png";
 import offeringsImage from "./assets/offerings.png";
 import relationsImage from "./assets/relations.png";
